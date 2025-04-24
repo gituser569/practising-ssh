@@ -1,1 +1,1 @@
-creating and cloning ssh file 
+practising cloning in git using ssh remote origin
